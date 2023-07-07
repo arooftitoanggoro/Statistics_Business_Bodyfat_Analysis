@@ -19,3 +19,5 @@ The problem we seek to address is the lack of a comprehensive understanding of h
 Solving this problem can provide significant benefits for individuals seeking to improve their body composition. By identifying the most influential factors, we can develop personalized strategies and interventions that target these variables, leading to more effective and efficient approaches for managing body fat percentage.
 
 In the following sections of this paper, we will present our methodology, data collection process, and statistical analysis techniques employed to explore the relationship between body fat percentage and the key parameters. We will then discuss the results, draw conclusions, and propose recommendations for further research and practical applications in the field of health and fitness management.
+
+https://medium.com/@aroof.tito/exploring-the-relationship-between-body-fat-percentage-and-key-parameters-a-regression-analysis-44fac05d3a68
